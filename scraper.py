@@ -30,7 +30,7 @@ except:
 
 
 columns = [
-    'Company Name', 'Address', 'NJIC#', 'Website', 'Email', 'Phone', 'Street Address' 'City', 'Country', 'State', 'Zip'
+    'Company Name', 'Address', 'NJIC#', 'Website', 'Email', 'Phone', 'Street Address', 'City', 'Country', 'State', 'Zip'
 ]
 output_file = 'output.csv' #output file name and directory
 
